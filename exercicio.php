@@ -22,7 +22,7 @@
         
     </header>
     <nav class="navegacao">
-        <a href="#" class="verde">Sem formatação</a>
+        <a href="teste/teste.php" class="verde">Sem formatação</a>
         <a href="index.php" class="vermelho">Voltar</a>
     </nav>
     <main class="principal">
