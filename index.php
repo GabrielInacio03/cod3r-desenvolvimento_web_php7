@@ -40,6 +40,20 @@
                         </li>
                         <li>
                             <a href="exercicio.php?dir=basico&file=desafio">Desafio</a>
+                        </li>                        
+                    </ul>
+                </div>
+                <div class="modulo vermelho">
+                    <h3>Módulo 02</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=tiposBasicos&file=int">Inteiro</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tiposBasicos&file=float">Float</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tiposBasicos&file=aritmeticas">Aritméticas</a>
                         </li>
                     </ul>
                 </div>
