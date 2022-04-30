@@ -55,6 +55,9 @@
                         <li>
                             <a href="exercicio.php?dir=tiposBasicos&file=aritmeticas">Aritméticas</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=tiposBasicos&file=desafio_precedencia">Desafio Precedência</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
