@@ -64,6 +64,9 @@
                         <li>
                             <a href="exercicio.php?dir=tiposBasicos&file=desafio_string">Desafio String</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=tiposBasicos&file=booleano">Booleano</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
