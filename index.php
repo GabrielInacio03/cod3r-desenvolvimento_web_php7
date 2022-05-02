@@ -67,6 +67,9 @@
                         <li>
                             <a href="exercicio.php?dir=tiposBasicos&file=booleano">Booleano</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=tiposBasicos&file=conversoes">Conversão</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
