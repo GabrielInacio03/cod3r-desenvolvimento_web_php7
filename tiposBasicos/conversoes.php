@@ -28,7 +28,8 @@
     var_dump("3". 2); //string 32
     echo '<br>', is_string("3". 2); //1
     echo '<br>';
-    var_dump(1 + "cinco");
+    //var_dump(1 + "cinco");
+    var_dump(1 + "3.2");
 
 
     
