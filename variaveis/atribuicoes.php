@@ -2,7 +2,7 @@
 
 <?php
     //Atribuição simples
-
+    //operante1( 1) operador(+) operante2(5)
     $titulo = 'Atribuições';
     $numero = 10;
     echo '<br>'. $numero;
