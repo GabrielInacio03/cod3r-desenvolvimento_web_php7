@@ -87,6 +87,9 @@
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=variaveldevariavel">Variáveis Variáveis</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
