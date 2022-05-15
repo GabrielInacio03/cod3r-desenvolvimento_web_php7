@@ -74,10 +74,13 @@
                 </div>
                 <div class="modulo azul">
                     <h3>Módulo 03</h3>
-                    <ul>                                              
+                    <ul>                                             
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=basico">Básico</a>
-                        </li>                        
+                        </li>                      
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a>
+                        </li>  
                     </ul>
                 </div>
             </nav>
