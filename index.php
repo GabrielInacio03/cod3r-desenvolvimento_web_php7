@@ -96,6 +96,9 @@
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor_Referência</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=constante">Constante</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
