@@ -12,6 +12,21 @@
         echo 'É falso';
     }
 
+    echo '<br>Fim.';
+
+    echo '<br>';
+
+    //else if
+    echo '<br> ------------ <br> ELSE IF <br>';
+    $valor = 0;
+    if($valor == 0){
+        echo 'Falso';
+    }else if($valor == "0"){
+        echo 'Também é falso';
+    } else{
+        echo 'Agora é verdadeiro';
+    }
+
    // if(true)    
    //     echo 'É verdadeiro';
    // else
