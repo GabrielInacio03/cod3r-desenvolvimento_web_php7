@@ -34,6 +34,9 @@
                         <li>
                             <a href="exercicio.php?dir=controle01&file=operadores_relacionais">Operadores Relacionais</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle01&file=desafio_pi">Desafio PI</a>
+                        </li>
                     </ul>
                 </div>                                
                 <div class="modulo azul">
