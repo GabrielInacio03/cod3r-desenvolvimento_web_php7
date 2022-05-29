@@ -33,3 +33,18 @@
     } else {
         echo "Terceira Idade";
     }
+
+    echo "<p>Speaceship</p>";
+    var_dump(5 <=> 3); //1
+    var_dump(5 <=> 5); //0
+    var_dump(5 <=> 50); //-1
+?>
+
+<style>
+    p{
+        margin-bottom: 0px;
+    }
+    hr{
+        margin-top: 0px;
+    }
+</style>
