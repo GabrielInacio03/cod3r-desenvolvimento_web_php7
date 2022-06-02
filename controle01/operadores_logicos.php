@@ -46,3 +46,21 @@
     var_dump(false xor false);//false
 
     //só será verdadeiro se um dos dois forem verdadeiros, um ou outro
+
+    echo '<br>';
+    echo '<hr>';
+
+    $idade = 62;
+    $sexo = 'F';
+    echo '<br>';
+
+    // === extritamente igual
+
+
+    if($idade >= 60 && $sexo === 'F'){
+        echo 'Pode se aposentar -> '. $sexo;
+    } else if($idade >= 65 && $sexo === 'M'){
+        echo 'Pode se aposentar ->'. $sexo;
+    } else{
+        echo 'Vai ter que trabalhar mais um pouco';
+    }
